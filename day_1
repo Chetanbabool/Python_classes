@@ -1,0 +1,29 @@
+# print('Hello World!!!!!')
+# print("Hello World!!!!!")
+# print('''Hello World!!!!!''')
+# print('''echo "# Python_classes" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/Chetanbabool/Python_classes.git
+# git push -u origin main''')
+# print("This is chetan's car")
+
+
+# print("git add README.md")
+# print("git commit -m")
+# print("git branch -M main")
+
+
+# print('Sumeet')
+# print(type('sumeet'))
+# print(123)
+# print(type('12@ er3'))
+
+# print('12.3')
+# print(type('12.3'))
+# print(True)
+# print(type(True))
+
+# print(len('Chetan Baboolcvghujhbn fujhbnm fujhbnm ftujhbnjm gfjuhbn  fhgbn n '))
