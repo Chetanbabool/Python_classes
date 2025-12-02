@@ -1,0 +1,72 @@
+# print('Hello World!!!!')
+# String's Methods 
+# var_1 = 'Sumeet'
+# print(var_1)
+# print(type(var_1))
+# print(var_1.capitalize())
+# print(var_1.lower())
+# print(var_1.upper())
+# print(var_1.count('e'))
+# print(var_1.endswith('i'))
+# print(var_1.startswith('s'))
+# print(var_1.startswith('S'))
+
+
+# first_p = 'This Is testing Line and We Are very Happy!!'
+# print(first_p)
+# print(first_p.lower())
+# print(first_p.casefold())
+
+
+# var_1 = 'Ståleumeet'
+# # print(var_1.center(40)) 
+# x =var_1.encode()
+# print(x)                 
+
+
+
+# txt = "abcdefghijklmnopqrstuvwxyz."
+
+# x = txt.find("m")
+
+# print(txt[12])
+
+
+
+# txt = "Hello, welcome to my world."
+
+# x = txt.index("welcome")
+
+# print(txt[7])
+
+# var_new = 'Shruti'
+# print(var_new)
+# print(var_new.find('r'))
+# print(var_new.index('r'))
+# print(var_new[2])
+# print(var_new[2:5])
+# var_new = 'JfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbatbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbatidfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbchetanJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbdfbJfbdfbin'
+# print(var_new[var_new.find('c') : var_new.find('n')+1])
+# print(var_new.find('c'))
+# print(var_new.find('n'))
+# print(var_new[853:858+1])
+# print(sample)
+# sample = 'Hello my name is Roshni'
+# print(sample)
+# print(sample)
+# print(sample.replace('Roshni','Shruti'))
+# sample= sample.replace('Roshni','Shruti')
+# print(sample)
+
+
+# x = '         sddjvnjlsdfv        '
+# print(x.strip())
+
+
+
+# abc = 'chetan deepak sumeet nishant'
+# print(abc)
+# print(abc.split(' '))
+
+# x = 'chetan'
+# print(x.zfill(20))
