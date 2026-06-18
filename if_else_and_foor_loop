@@ -1,0 +1,54 @@
+# # Question: Write a Python program to calculate an electricity bill based on consumption and type of user (residential or commercial). Use the following rules:
+# # Residential: First 100 kWh at 5 per kWh, next 200 kWh at 7 per kWh, and beyond 300 kWh at 10 per kWh.
+# # Commercial: First 100 kWh at 10 per kWh, next 200 kWh at 15 per kWh, and beyond 300 kWh at 20 per kWh.
+
+# user_input = input('Type of user (residential = R or commercial = C)').lower()
+# user_units = int(input('Enter total units: '))
+
+# if user_input == "r":
+#     if user_units<=100:
+#         print(user_units*5)
+#     elif user_units>100 and user_units<=300:  #----200*7
+#         print((100*5) + (user_units-100)*7)
+#     else:
+#         print((100*5) + (200*7) + (user_units-300)*10)
+# elif user_input =='c':
+#     if user_units<=100:
+#         print(user_units*10)
+#     elif user_units>100 and user_units<=300:  #----200*7
+#         print((100*10) + (user_units-100)*15)
+#     else:
+#         print((100*10) + (200*15) + (user_units-300)*20)
+
+
+# sample = 'Chetan Babool'
+
+#C
+#h
+#e
+#t
+#a
+#n
+
+# print(sample[0])
+# print(sample[1])
+# print(sample[2])
+# print(sample[3])
+# print(sample[4])
+# print(sample[5])
+# print(sample[6])
+# print(sample[7])
+# print(sample[8])
+# print(sample[9])
+# print(sample[10])
+# print(sample[11])
+# print(sample[12])
+
+# for i in sample:
+#     print(i)
+
+# for i in range(len(sample)):
+#     print(sample[i])
+
+# 2 X 1 = 2
+# 2 X 2 = 4
