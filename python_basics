@@ -1,0 +1,96 @@
+# string - str
+# integer - int
+# float - float
+# Boolean -bool
+
+# print(type(2))
+# print(type(2.0))
+
+# va1 = "2"
+# va2 = 2
+# print(type(va1))
+# print(type(va2))
+
+
+# print('True')
+# ['orange','orange','apple']
+
+# integer - int = 1-999999999
+# float - 2468434652.7412
+# string - str = ""'' """""" '''sfdgfhgjkjhgfd'''
+# boolean - bool = True/False
+
+# var1 = 'chetan babool'
+# name = input('Enter your name: ')
+# print('Welcome...Nice to meet you....',name)
+# print('Hello',var1)
+
+# a = input('Enter first number: ')
+# b = input('Enter second number: ')
+# print(a)
+# print(type(a))
+
+# my_var = True
+# print(type(my_var))
+# print(type(str(my_var)))
+# print(type(my_var))
+
+# sampel = input('enter word : ')
+# sampel1 = input('enter word : ')
+# print(sampel*8)
+
+# print('a'+6)
+
+# toffy
+
+# a = input('Enter first number: ')
+# b =input('Enter second number: ')
+# print(a+b)
+
+# a ,b = 4,5
+# print(a,b)
+
+# a = 4
+# b =
+
+# word = input('Enter your name: ').upper()
+# print(word)
+# print(word)
+
+name = 'Chetan Babool'
+age = 24
+phn = 7418529630
+gender = 'male'
+# print("my name is",name,"My age is",age,"My phn no is",phn,"my gender is ",gender)
+# print(f"""My name is {name} 
+# my age is {age} 
+# my phn no is {phn} 
+# my gender is {gender}""")
+
+# print(f"My name is {name}",end='\n')
+# print(f"my age is {age}  my phn no is {phn} my gender is {gender}")
+
+
+#LIST
+
+# a = 'apple'
+# b = 'banana'
+# c = 'cherry'
+# d = 'Kiwi'
+# print(a)
+# print(b)
+# print(c)
+# print(d)
+
+# var_1 = ['monika','radhika','shivani','rohini','sangita','manpreet','taniya','neesha']
+# [star:end:step size]
+# print(var_1[5:])  #---radika
+# print(var_1[1:7])  # M/N/B/T
+# print(var_1[1:7])  #--=-R
+# print('Monika kaindi Sir menu ni pta') 
+# var_1 = ['monika','radhika','shivani','rohini','sangita','manpreet','taniya','neesha']   
+# # print(var_1[1:7]) #---- B/M/R/
+# # print(var_1[1:7:5]) #---- B/M/R/
+# # print(var_1[1:7:3])  #---- N
+# # print(var_1[1:6])  #---- T
+# print(var_1[1:7:4])  #---- R
