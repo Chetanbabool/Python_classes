@@ -1,0 +1,72 @@
+# Tuple
+# var_1 = ('chetan','sachin','priyanshu','bhanu')
+# print(type(var_1))
+# print(var_1.count('chetan'))
+# print(var_1.index('priyanshu'))
+# var_1 = list(var_1)
+# print(type(var_1))
+# var_1.append(55)
+# var_1.extend([569,745,'babool'])
+# var_1 = tuple(var_1)
+# print(var_1[2:4])
+
+# var_new = [1,2,5,6,[45,78,[52,36,[145,'chetan'],55],99,10],'babool']
+
+# # print(var_new[4][2][2][1],var_new[-1])
+# print(var_new[4][2][2][1],var_new[-1])
+
+# Dictionary 
+# data types = string,int,tuple,float,list,bool,dict,set
+# [],(),{}
+
+var_new = {
+    "Name": 'Monika',
+    "age": 20,
+    "phn_no": 74185296310,
+    "aadharcard":12345678910203,
+    'aadress': 'Pathankot'
+}
+# var_new.update({'Name':'Radika'})
+# var_new['weight']= 45
+# print(var_new)
+# print(var_new.get('phn_no'))
+# print(var_new)
+# print(var_new.keys())
+# print(var_new['Name'])
+# print(var_new['age'])
+# var_new.clear()
+# print(var_new['Name'])
+# print(var_new.get('Name'))
+# new = var_new.items()
+# print(list(new)[2])
+# print(new.get("phone no"))
+# print(var_new.pop('age'))
+# print(var_new)
+# print(var_new.values())
+# var_new.popitem()
+# print(var_new)
+# var_new.popitem()
+# print(var_new)
+
+# new_list = ['key1','key2','key3','sample']
+# print(type(new_list))
+# new_dict = dict.fromkeys(new_list)
+# print(new_dict)
+
+# x = dict.fromkeys(new_list)
+# print(x)
+
+# car = {
+#   "brand": "Ford",
+#   "model": '',
+#   "year": 1964
+# }
+
+# x = car.setdefault()
+
+# print(x)
+# print(car)
+
+key_set_by_user = ['aadhar card']
+new_dict = dict.fromkeys(key_set_by_user)
+print(new_dict)
