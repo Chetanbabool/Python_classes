@@ -1,0 +1,53 @@
+# LIST 
+# TUPLE
+# dict
+# SET
+
+# empty = []
+# empty_tuple = ()
+# empty_dict = {}
+# emptyset = set()
+
+
+# set = unordered
+
+my_first_set = {'chetan','mohit','bhannu','sahil'}
+number_set = {5,7,9,10}
+# my_first_set.add('sachin')
+# print(my_first_set)
+# my_first_set.remove('monika')
+# my_first_set.discard('monika')
+# print(my_first_set)
+# my_first_set.discard()
+# print(type(my_first_set))
+# my_first_set.add('Radhika')
+# my_first_set.remove('chetan')
+# my_first_set.discard('bhannu')
+# my_first_set.pop()
+# my_first_set.update('radhika')
+# my_first_set.update(['ronit','monika','radhika'])
+# print(my_first_set)
+
+# x = 'chetan'
+# y = list(x)
+# print(y)
+# new = x.split()
+# print(new)
+
+
+
+# new = my_first_set.union(number_set)
+# print(my_first_set)
+# print(new)
+
+# sample  = my_first_set | number_set
+# print(sa)
+
+# Union 
+# add
+# remove
+# discard
+# update
+# pop 
+# clear
+# copy
