@@ -1,0 +1,63 @@
+# all_class_info = {'6':55} 
+# student_class = '8'
+# if student_class in all_class_info.keys():
+#     print(all_class_info.keys())
+# else:
+#     all_class_info[student_class]=True
+#     print("hanjii",all_class_info)
+
+
+
+# var1 = "This is testing Line."
+# print(type(var1))
+
+# code_lenght = "This is testing Line ."
+#             #  0123456789.....
+#                 # 12345678
+# print(code_lenght[0:10:2])
+# print(code_lenght[0:10:3])
+
+# x = "baBool"
+# print(x[3:5:2])
+# print(x[::-1])
+# print(x[-1])
+# print(x[5])
+# print(x[6])
+# print(x[2])
+# print(x[-4])
+# print(x[2:0])
+# print(x[2:5])
+
+# String - Methods
+
+# var1 = 'hello'
+
+# print(var1.upper())
+# print(var1.lower())
+# print(var1.capitalize())
+# print(var1.center(100))
+
+# std= 'monika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimonika devimoiiinikaI devimonika devimonika devi'
+# print(std.count('i'))
+# print(std.count('I'))
+
+
+
+
+# new_var = 'cthetan'
+# print(new_var.endswith('h'))
+# print(new_var.startswith('C'))
+
+# print(new_var.find('t'))
+# print(new_var.index('t'))
+# print(new_var.index('t',2))
+
+# max = 'c1b2d3'
+# max1 = 'cbnm'
+# print(max.isalnum())
+# print(max1.isalnum())
+# print(max1.isalpha())
+# print(max.isalpha())
+# print(max1.isnumeric())
+# print(max)
+# print(max.replace('1','a'))
