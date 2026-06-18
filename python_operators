@@ -1,0 +1,43 @@
+# + 
+# -
+# /
+# *
+# %
+# **
+# //
+
+# print(3*3)
+# print(3**3)
+# print(3**4)
+# print(3**5)
+# print(3**6)
+
+# y = 5
+# y +=4   y = 5+4
+# y += 1   y = 9+ 1
+# y -=10  y = 10-10
+# y +=7   y = 0      +7
+# print(y)
+
+# print(5!=5)
+
+# and 
+# or 
+# not
+
+
+# 
+# print(5>4)
+# print(not(5>4))
+
+# print(6>8)
+# print(not(False))
+
+# var1 = 'chetan'
+# print(type(var1))
+
+# abc = 55.456
+# print(type())
+
+# sample = 'Mo  ni ka D e vi'
+# print(len(sample))
