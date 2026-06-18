@@ -1,0 +1,66 @@
+# var_2 = 'chetan'
+# print(type(var_2)) #----'chetan'
+# new_var = var_2.split() #------>'c','h','e','t','a','n' /'['chetan']
+# print(type(new_var))
+
+# var_3 = ' chetan babool '
+# print(var_3.strip())
+
+# Take a string and check whether it starts with "Py".
+# var15 = input("Enter your string:")
+# var15 = var15.strip().capitalize()
+# print(var15.startswith("Py"))
+
+# var15 = input("Enter your string: ").strip().capitalize()
+# var15 = var15.strip().capitalize()
+# print(var15.startswith("Py"))
+
+
+# var_1 = ['apple','pineapple']
+# print(var_1)
+# var_1.append('guava')
+# print(var_1)
+# var_1.append('watermelon')
+# print(var_1)
+# var_1 = ['apple','pineapple']
+# var_1.clear()
+# var_1.append('guava')
+# var_1.append('mango')
+# var_1.append('guava')
+# print(var_1.clear())
+# print(var_1)
+
+var_new = ['apple','pine apple']
+# print(var_new.count('apple'))
+# print(var_new)
+# var_new.extend(['guava','watermelon'])
+# print(var_new)
+# print(var_new.index('pine apple'))
+
+numebr = [5,4,710,1,20,0]
+# print(numebr)
+# numebr.insert(0,0)
+# print(numebr)
+
+# numebr.pop()
+# print(numebr)
+
+# numebr.remove(5)
+# print(numebr)
+# print(numebr[::-1])
+# numebr.reverse()
+# print(numebr)
+
+# numebr.sort(reverse=True)
+# print(numebr)
+
+# numebr.append(99)
+# x = numebr.copy()
+# print(numebr)
+# print(x)
+
+# sample = ['apple','pineapple','guava','apple']
+# x = 'chetan'
+# sample.reverse()
+# print(x[::-1])
+# print(sample)
