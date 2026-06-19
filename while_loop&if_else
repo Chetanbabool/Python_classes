@@ -1,0 +1,154 @@
+# if elif else
+
+# LOOP
+# ---For Loop----15
+# --- While loop
+
+
+# for i in range(1,11):
+#     print(i)
+
+
+# for i in range(0, 11):
+#     print(f"Table of {i}:")
+#     for j in range(0, 11):
+#      print(f"{i} x {j} = {i * j}")
+#     print()
+
+
+
+
+# for i in range(2,11):
+#     for n in range(1,11):
+#         print(f"{i} X {n} = {i*n}")
+#     print()
+
+# list_mine = ['chetan','mohit','bhannu','sachin','priyanshu','ronit']
+# list_mine.append('Sahil')
+# print(list_mine)
+# empty_list = []
+# for i in list_mine:       
+    # print(i)
+# for i in list_mine:
+    # empty_list.append(i)
+# print(empty_list)
+
+
+# list_name = ["aaa","bb","ccc"]
+# list_name2 = []
+# for i in list_name:
+#     print([i,list_name2])
+
+# Pilindrome
+# SOS
+# MAM
+# 121
+# POP
+# 123
+# 321
+# 121
+# 123321
+
+
+# chetan
+# natehc
+# race
+# ecar
+
+# fibonacci series - 0 1 1 2 3 5 8 13
+
+
+# word = input("Enter a word:")
+# if word == word[::-1]:
+#     print(word, "is a palindrome.")
+# else:
+#     print(word, "is not a palindrome.")
+
+
+# x = 'chetan'
+# print(x)   #---chetan
+# print(x[::-1])  #---natehc
+
+# fibonacci series
+
+# 0 1 1 2 3 5 8 13 21 34 
+
+
+# a = 0
+# b = 1
+# for i in range(1,20):
+#     print(a,end=" ")
+#     a,b =b,a+b
+# print()
+
+
+# list_new = [i for i in range(1,11)]
+
+# for i in range(1,11):
+#     list_new.append(i)
+# print(list_new)
+
+# print(list_new)
+
+# loop hole
+
+
+# while True:
+#     age = int(input("Enter your age: "))
+
+#     if age>=18:
+#         print("Aapki age 18 hai!")
+#         answer = input("Kya aap continue karna chahte ho? (yes/no): ")
+    
+#         if answer == "no":
+#             break
+#         else:
+#             continue
+#     else:
+#         print("Tumhari age km hai")
+#         break
+
+
+        
+# age = int(input("Enter your age: "))
+
+# while age >= 18:
+#     print("Aapki age 18 hai!")
+#     answer = input("Kya aap continue karna chahte ho? (yes/no): ").lower()
+    
+#     if answer == "no":
+#         print("Loop band ho gaya!")
+#         break
+#     else:
+#         print("Invalid input! 'yes' ya 'no' likhein.")
+    
+    
+# age = int(input("Enter your age: "))
+
+# while age >= 18:
+#     print(f"Aapki age {age} hai!")
+#     age = int(input("Ab apni nayi age daalo: "))
+    
+#     if age < 18:
+#         print("Age 18 se kam hai — Loop band ho gaya!")
+#         break
+#     else:
+#         print("Age 18 se jyada hai — Thank you! ")
+#         continue
+
+# print(f"Final age: {age}")
+
+# while True:
+#     age = int(input("Enter your age: "))
+
+#     if age>=18:
+#         print("Aapki age 18 hai!")
+#         answer = input("Kya aap continue karna chahte ho? (yes/no): ")
+    
+#         if answer == "no":
+#             break
+#         else:
+#             continue
+#     else:
+#         print("Tumhari age km hai")
+#         break
