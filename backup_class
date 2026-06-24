@@ -1,0 +1,113 @@
+# Slicing 
+
+# x = 'Che  tan'
+#      012345
+
+# print(x[2:5])
+
+# var_new = 'My name is Tania Thapa'
+# print(var_new[11:22])
+# print(var_new[::-1])
+
+# new_list = ['chetan','mohit','rohit','kushal','parul','lalit']
+#               0       1       2       3        4       5
+#               -6      -5     -4       -3      -2      -1
+# print(len(new_list))
+# print(new_list[2])
+# print(new_list[5])
+# print(new_list[-1])
+# print(new_list[2:5])
+# print(new_list[0],new_list[-1])
+# [start:end:step_size]
+# print(new_list[0::5])
+
+# Slicing : - left ---> right
+# new_list = ['chetan','mohit','rohit','kushal','parul','lalit']
+# print(new_list[2:5])
+# print(new_list[5:2])
+# print(new_list[-5:5])
+
+# Dictionary {}
+
+# empty_list= []
+# empty_tuple = ()
+# empty_dict = {}
+# empty_set = set()
+# print(type(empty_dict))
+# print(type(empty_set))
+
+# dictionary = {
+#     'Name': 'Tania Thapa',
+#     'Age': 24,
+#     'Height': '5.4',
+#     'phn_no': 7896541230 ,
+#     'phn_no':7777777777
+# }
+
+# print(dictionary)
+# print(dictionary.keys())
+# print(dictionary['Name'])
+# print(dictionary['Age'])
+# print(dictionary.get('Name'))
+# print(dictionary.get('Age'))
+# print(dictionary.get('phn_no'))
+# print(dictionary.values())
+# print(dictionary.items())
+# dictionary.pop('phn_no')
+# print(dictionary)
+# dictionary.popitem()
+# dictionary.update({'phn_no':8360915667})
+# dictionary.setdefault('Distt',"PTK")
+# print(dictionary)
+# list_my = ['key1','key2','key3']
+# new_dict = dictionary.fromkeys(list_my)
+# new_dict.update({'key1':'Hello ji'})
+# print(new_dict)
+
+#SETS
+
+# list - mutable/immutable --->  mutable(changeable),duplicate allow
+# tuple - mutable/immutable ---> immutable(unchangeable),duplicate allow
+# dict - mutable/immutable --->  mutable(changeable),
+# sets - mutable/immutable --->
+
+
+# list_new = [5,7,9,50,1,3,0,110,4795,7]
+# print(list_new)
+# list_new.sort()
+# print(list_new)
+
+# set
+
+# new_set = {'1','2','4','5','3','3','3','5','4','4','2','1'} #---- unordered
+# new_set.add('chetan')
+# # print(new_set)
+# new_set.remove('chetan')
+# new_set.discard('chetan')
+# print(new_set)
+# new_set.pop()
+# print(new_set)
+# new_set.pop()
+# print(new_set)
+# new_set.pop()
+# print(new_set)
+# new_set.pop()
+# print(new_set)
+# new_set.pop()
+# print(new_set)
+
+# new_set.update(['hello','world','sample'])
+# print(new_set)
+
+# set_1 = {1,2,3,4,5}
+# set_2 = {4,5,6,7,8}
+# print(set_1.union(set_2))
+# print(set_1.difference(set_2))
+# print(set_2.difference(set_1))
+# set_1.difference_update(set_2)
+# print(set_1)
+# print(set_1.intersection(set_2))
+# set_1.intersection_update(set_2)
+# print(set_1)
+# print(set_1.symmetric_difference(set_2))
+
