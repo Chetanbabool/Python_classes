@@ -1,0 +1,89 @@
+# print --> Output
+# print("Piyush Mehra")  
+# ''    -----> Quote
+# ""------> Double Quote
+# ''' '''-----> Triple Quote
+# """ """ ----> Triple Quote
+
+# this is piyush's car
+
+# print("this is piyush's car")
+# print("Piyush Mehra" 
+#       Age :18
+#       phn_no :741852396)
+
+# print("""Piyush Mehra
+# Age :18
+# phn_no :741852396
+# """)
+# ''
+# ""
+# ''''''
+# """"""
+
+# Data Types: 
+# String ---> str ---> ""/''/''''''/""""""
+# Boolean ----> Bool ---> True/False
+# Float---------> float ---> 3.5,8.9,8.235,5.0
+# Integar --------> int ----->1,2,6,455,851,200,0
+
+
+# "chetan"
+# "55"
+# '8.6'
+# 'False'
+# False
+# True 
+# 5.6
+# 1520.0
+# 152
+
+# Operators 
+# Arithmetic Operator:
+# +,-,/,*,%,**,//
+
+# print(5+9)
+# print(5-9)
+# print(4/2) #---->Quotient
+# print(5%2)#-----> Remainder
+# print(5*2)
+# print(5**10)
+# print(5/2)  #---->2.5 
+# print(5//2)  #---->2
+
+
+# Comparison Operator ---->True/ False
+
+# print(5>4) #----> True
+# print(5<4) #----> False
+# print(5==5)#----> True
+# print(5!=6)#--->True
+# print(5<6) #-----. True
+# print(5<=5) #-----. True
+
+# Assignment Operator
+# x = 5
+# y =9
+
+# name = 'Piyush Mehra'
+# print(name)
+# x = 5
+# # x +=4
+# x = x+4
+# print(x)
+
+
+# Logical Operator 
+
+# and 
+# or 
+# not 
+
+# print(5>6 or 5<6)
+# print(5>6 and 5<6)
+# print(not(5>6 and 5<6))
+# print(not(False))
+
+# name = "Chetan babool"
+# print('My name is Piyush Mehra')
+# print('My name is',name)
