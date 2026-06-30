@@ -1,0 +1,149 @@
+# Functions
+# hello
+# print('Hello')
+# appen()
+# remove()
+# get()
+
+# def asfdgfhgjh():
+    # sacdsfghjnm
+    # dsfgnh
+    # sdfbg
+    # dsfg
+
+# no name (function) (lambda)
+
+# user-define
+
+
+# print('Hello')
+# print('Hello')
+# print('Hello')
+# print('Hello')
+# print('Hello')
+# print('Hello')
+# print('Hello')
+# print('Hello')
+# print('Hello')
+
+# def asdfghj():
+#     for i in range(1,10):
+#         print('Hello')
+
+# asdfghj()
+# asdfghj()
+# asdfghj()
+# asdfghj()
+# asdfghj()
+# asdfghj()
+
+# def sample():
+#     print('Hello Guyssss')
+
+
+# sample()
+# sample()
+# sample()
+# sample()
+# sample()
+# sample()
+
+
+# temp1 = 77
+# celsius1 = (temp1 - 32) * 5 / 9
+# print(celsius1)
+
+# temp2 = 95
+# celsius2 = (temp2 - 32) * 5 / 9
+# print(celsius2)
+
+# temp3 = 50
+# celsius3 = (temp3 - 32) * 5 / 9
+# print(celsius3)
+
+# def celsius(temp):
+#     return (temp - 32) * 5 / 9
+
+# return -----> function
+
+# return('Hello world')
+
+# x = celsius(33)
+# y = print(celsius(33))
+# print(y)
+# print(x*5)
+
+# x = print('hello')
+# print(x)
+
+
+# def add_fx (a,b): # ------>Parameter
+#     return a + b 
+
+
+# x = add_fx(2,3,1) #----> Arguments
+# print(x)
+
+# print(add_fx(2,3))
+
+
+# def heloo_fx(user_name):
+#     print("Welcome",user_name)
+
+# heloo_fx("Monika")
+# heloo_fx("Manpreet")
+# heloo_fx("Nesha")
+# heloo_fx("Taniya")
+
+# def greet(fname,age,city,phn_no,lname=" Sharma"):
+#     print("Welcome",fname,lname,"We are happy to meet you.Your age is",age,"my phone no is",phn_no,"You belong from",city)
+
+
+# greet('Babool','Chetan')
+# greet('Monika','Devi')
+# greet('Devi','Monika')
+# greet(fname='Chetan',lname='Babool')
+# greet('Chetan',lname='Babool',)
+# greet('Babool','Chetan')
+
+# greet(22,741852963,'Chetan','Pathankot')
+# greet('Chetan',24,"Pathankot",796541230,'Babool')
+# greet(fname='Monika',lname='Devi',phn_no=796412,city='PTk',age=20)
+# greet('Chetan',22,city="Ptk",phn_no=7418589)
+
+# def sam(fruits):
+#     for i in fruits:
+#         print(i)
+
+# sam(['apple','pineapple','kiwi'])
+
+# def values(a,b,c,d,e,f,g,h,i,j):
+#      return a+b+c+d+e+f+g+h+i+j
+# print(values(1,2,3,6,7,8,9,10,11))
+
+# for i in range(10):
+#     num = int(input(f"enter the value {i+1}: "))
+
+# def sum_fx(number):
+#     return sum(number)
+
+# def sum_fx(number):
+#     x= 0
+#     for i in number:
+#         x +=i
+#     return x
+
+
+# def sample(values):
+#     print (sum(values))
+
+# def new_1(values):
+#     x = 0
+#     for i in values:
+#         x +=i
+#     return x
+# n= new_1([4,5,6,8,12,62,0,447,4])
+# print(n)
+# n= new_1([12,62,0,447,4])
+# print(n)
+# print(sum_fx([1,2,3,4,5,6,4])) #--->25
