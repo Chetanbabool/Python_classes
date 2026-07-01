@@ -147,3 +147,127 @@
 # n= new_1([12,62,0,447,4])
 # print(n)
 # print(sum_fx([1,2,3,4,5,6,4])) #--->25
+
+
+
+# functions
+# Classes - oops
+# error handling 
+# File handling
+
+# library --- GUI (Graphical user interface)
+# Tkinter/custom tkinter 
+
+# def sample(): #----->Parameter
+    # fdcvb bfgb
+
+# sample()----->arguments
+
+# def add(a,b):
+
+# print(54)
+
+# def sample(a,b,c):
+#     dfxgchg
+
+# sample(0,c=5,b=1)---> p/key
+
+# args/kwargs
+
+# def sample (a,c):
+#     return a+c
+
+# print(sample(4,5))
+
+
+# def sum_fx (*a):
+#     return a[1]
+
+# print(sum_fx('chetan','mohit','rohit'))
+
+
+# def greet (msg,name,*names):
+#     return msg,name,names[1]
+#     return msg,names[0]
+
+# x= greet('Hello','chetan','mohit','sahil')
+# print(x)
+
+# args
+# kwargs
+
+# def my_function(**kid):
+#   print(type(kid))
+#   print("His last name is " + kid["lname"])
+#   print("His first name is " + kid["fname"])
+
+# my_function(fname = "Tobias", lname = "Refsnes")
+
+
+# keys 
+# dict
+
+# data entry fuction
+
+# def data_entry (a, **data):
+#     print(a)
+#     print(f"My first name is {data['fname']}")
+#     print(f"My Last name is {data['lname']}")
+#     print(f"My Age is {data['age']}")
+#     print(f"My Phone no is {data['p_no']}")
+#     print(data)
+
+# data_entry(741,fname='Chetan',lname= 'Babool',p_no=8529696,age=24)
+
+# def data_entry (title_data,*user_name,**data):
+#     print(title_data)
+#     print(user_name)
+#     print(data['fname'])
+#     print(data['lname'])
+#     print(user_name)
+#     print(data)
+
+# data_entry('Student_info','chetan','Bhannu',fname="Monika",lname='Devi')
+
+# parameter
+# arguments
+# args
+# kwargs
+
+# list [1]
+# list [1]
+# list [2]
+
+# def sample():
+
+# lambda
+# numbers = [5,4,77,85,32,00]
+# doubled = list(map(lambda x: x * 2, numbers))
+# print(doubled)
+
+
+
+# x = [2,4,5,9,10,77,30,11]
+# new = []
+# for i in x:
+#     new.append(i*2)
+# print(new)
+
+# def sample(x):
+#     return x*2
+
+# final = tuple(map(lambda a: a*2,x))
+# print(final)
+
+# import random
+
+# random_numbers = [random.randint(1, 1000) for _ in range(100)]
+# # print(random_numbers)
+
+# final = list(filter(lambda x: x>=200 and x<=600,random_numbers))
+# print(final)
+
+
+# sorted
+# DEcrator 
+# scope
