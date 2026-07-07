@@ -1,0 +1,94 @@
+# def deco(fx):  #-----> Parameter/Arguments
+#     print('Function started')
+#     fx()
+#     print('Function ended')
+
+# @deco
+# def add():
+#     print('Hello Monikaaaa')
+
+
+
+# class calculator:
+#     """
+#     Iss function ki madad se ap koi bhi calculation kar sakte hai!!!!
+#     """
+
+#     def __init__(self,a,b):
+#         self.a = a
+#         self.b = b
+
+    # def add(self):
+    #     return self.a + self.b
+# obj1 = calculator(5,7)
+# print(obj1) #-----> nothing
+# print(obj1.add())
+
+
+# class Calculator:
+
+#     def add(abc):
+#         return abc.a + abc.b
+
+# new = Calculator()
+# new.a = 55
+# new.b = 77
+
+# print(new.add())
+
+
+# Recursion 
+
+# def add(a,b):
+#     return a + b
+
+# print(add(4,9))
+
+
+# fibonacci Series
+
+# 0 1 1 2 3 5 8 13
+
+# a = 0
+# b= 1
+# for i in range(1,11):
+#     print(a,end=' ' )
+#     a,b = b,a+b
+
+
+# 0 1 1 2 3 5 8 13 21 34 
+# fn = fn(5-1) + fn(5 - 2) 
+
+# def fab(num):
+#     if num == 0:
+#         return 0
+#     elif num == 1:
+#         return 1
+#     else:
+#         return fab(num-1) + fab(num-2)
+
+# print(fab(5))
+
+# File Handling 
+
+
+# with open('radhika.txt','')
+
+# w - write
+# x - create 
+# r - read
+# a - append
+
+
+# with open ('new_sample.txt','a') as f:
+#     f.write(' ')
+#     f.write('radhika')
+
+
+# recursion------> 
+# inheritance ----> 
+# decorators -----> 
+# x
+# w
+# a
+# r
